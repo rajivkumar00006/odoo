@@ -146,7 +146,6 @@
         </div>
     </t>
 </template>
-
 <template id="report_invoice">
     <t t-call="report.html_container">
         <t t-foreach="doc_ids" t-as="doc_id">
